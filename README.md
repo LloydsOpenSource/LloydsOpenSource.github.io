@@ -14,7 +14,7 @@ Files can be edited on the [Github site](https://github.com/LloydsOpenSource/Llo
 
 All documents are formatted in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Jekyll generates the raw files in the <i>_site</i> folder, so do not edit any of the files in here.
+Jekyll generates the raw files in the <i>_site</i> folder, so do not edit any of the files in there.
 
 ## Further Reading
 
